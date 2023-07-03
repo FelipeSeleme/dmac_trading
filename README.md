@@ -9,11 +9,11 @@ Essa estratégia é baseada no princípio de que o cruzamento de duas médias m�
   
 Passos da estratégia DMAC:  
   
-`Escolha as médias móveis`: A primeira etapa é selecionar duas médias móveis com diferentes períodos. Uma média móvel mais curta, geralmente de curto prazo, é usada para capturar mudanças recentes nos preços, enquanto uma média móvel mais longa, geralmente de longo prazo, é usada para identificar a tendência geral do mercado.
-`Sinal de compra`: Quando a média móvel mais curta cruza acima da média móvel mais longa, é gerado um sinal de compra. Esse cruzamento indica uma possível reversão da tendência de baixa para uma tendência de alta.
-`Sinal de venda`: Por outro lado, quando a média móvel mais curta cruza abaixo da média móvel mais longa, é gerado um sinal de venda. Esse cruzamento indica uma possível reversão da tendência de alta para uma tendência de baixa.
-`Confirmação do sinal`: É comum utilizar outros indicadores técnicos ou análise adicional para confirmar os sinais de compra e venda gerados pelo cruzamento das médias móveis. Isso ajuda a evitar sinais falsos e aumentar a precisão da estratégia.
-`Gerenciamento de risco`: Como em qualquer estratégia de trading, é importante considerar o gerenciamento de risco. Isso envolve determinar o tamanho adequado da posição, definir stop-loss (limite de perda) e take-profit (limite de lucro) para controlar o risco e proteger os lucros.
+`Escolha as médias móveis`: A primeira etapa é selecionar duas médias móveis com diferentes períodos. Uma média móvel mais curta, geralmente de curto prazo, é usada para capturar mudanças recentes nos preços, enquanto uma média móvel mais longa, geralmente de longo prazo, é usada para identificar a tendência geral do mercado.  
+`Sinal de compra`: Quando a média móvel mais curta cruza acima da média móvel mais longa, é gerado um sinal de compra. Esse cruzamento indica uma possível reversão da tendência de baixa para uma tendência de alta.  
+`Sinal de venda`: Por outro lado, quando a média móvel mais curta cruza abaixo da média móvel mais longa, é gerado um sinal de venda. Esse cruzamento indica uma possível reversão da tendência de alta para uma tendência de baixa.  
+`Confirmação do sinal`: É comum utilizar outros indicadores técnicos ou análise adicional para confirmar os sinais de compra e venda gerados pelo cruzamento das médias móveis. Isso ajuda a evitar sinais falsos e aumentar a precisão da estratégia.  
+`Gerenciamento de risco`: Como em qualquer estratégia de trading, é importante considerar o gerenciamento de risco. Isso envolve determinar o tamanho adequado da posição, definir stop-loss (limite de perda) e take-profit (limite de lucro) para controlar o risco e proteger os lucros.  
   
 É importante ressaltar que a estratégia DMAC não garante lucros consistentes e não é adequada para todos os mercados ou períodos de tempo.  
 É essencial realizar testes e análises cuidadosas antes de aplicar essa estratégia em uma conta real de trading.  
